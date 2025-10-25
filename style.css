@@ -4,13 +4,16 @@ body {
 }
 .kart {
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-size: smaller;
+font-size:xx-large;
 color: #b3ef32;
+margin: 10px;
 }
 img{
 width: 500px;
 height: 500px;
 margin-top: 20px;
+border-radius: 10px;
+border-color: antiquewhite;
 
 }
     
