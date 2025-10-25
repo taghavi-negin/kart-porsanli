@@ -5,7 +5,7 @@ body {
 .kart {
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 font-size:xx-large;
-color: #b3ef32;
+color: #86cdf1;
 margin: 10px;
 }
 img{
@@ -15,6 +15,16 @@ margin-top: 20px;
 border-radius: 10px;
 border-color: antiquewhite;
 
+}
+.nini{
+    margin: 50px;
+    font-size: 24px;
+    size: 14px;
+    border-style: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 20px;
+    
 }
     
 
