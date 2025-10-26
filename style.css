@@ -25,6 +25,7 @@ border-color: antiquewhite;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-top: 15px;
     color: rgb(65, 65, 248);
+    line-height: 1.5em;
 
 }
 
@@ -37,6 +38,7 @@ border-color: antiquewhite;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-top: 10px;
     color: #5fcf23;
+    line-height: 1.5em;
 
 }
     .tel{
@@ -49,6 +51,7 @@ border-color: antiquewhite;
         padding: 15px;
         color: #5072fb;
         margin: 5px;
+        line-height: 1.5em;
 
     }
 
