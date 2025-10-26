@@ -32,10 +32,10 @@ border-color: antiquewhite;
     margin: 20px;
     font-size: 24px;
     size: 14px;
-    border-style: 10px;
+    border-style: groove;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding-top: 15px;
+    padding-top: 10px;
     color: #5fcf23;
 
 }
@@ -48,6 +48,7 @@ border-color: antiquewhite;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         padding: 15px;
         color: #5072fb;
+        margin: 5px;
 
     }
 
