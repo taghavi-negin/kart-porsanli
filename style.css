@@ -17,27 +17,37 @@ border-color: antiquewhite;
 
 }
 .nini{
-    margin: 50px;
+    margin:20px;
     font-size: 24px;
     size: 14px;
     border-style: 10px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-top: 20px;
+    padding-top: 15px;
     color: rgb(65, 65, 248);
 
 }
 
-p{
-    margin: 50px;
+.addres{
+    margin: 20px;
     font-size: 24px;
     size: 14px;
     border-style: 10px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding-top: 20px;
+    padding-top: 15px;
     color: #5fcf23;
-    
+
 }
-    
+    .tel{
+        font-size: 24px;
+        size: 14px;
+        border-style: solid;
+        border-color: aqua;
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 15px;
+        color: #5072fb;
+
+    }
 
