@@ -52,6 +52,7 @@ border-color: antiquewhite;
         color: #5072fb;
         margin: 5px;
         line-height: 1.5em;
+        box-shadow: 0px 14px 10px rgba(red, green, blue, alpha);
 
     }
 
