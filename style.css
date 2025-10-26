@@ -1,6 +1,6 @@
 body {
     text-align: center;
-   background-color: rgb(16, 18, 16); 
+   background-color: rgb(1, 1, 4); 
 }
 .kart {
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -26,6 +26,18 @@ border-color: antiquewhite;
     padding-top: 20px;
     color: rgb(65, 65, 248);
 
+}
+
+p{
+    margin: 50px;
+    font-size: 24px;
+    size: 14px;
+    border-style: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    color: #5fcf23;
+    
 }
     
 
